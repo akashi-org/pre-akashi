@@ -16,7 +16,7 @@ You may have used video editors for making your own videos. If so, what is your 
 
 First off, I must say that existing video editors are too visually complex. Users are overwhelmed by numerous complex widgets, including a pile of panes that occupy the entire screen, a gorgeous timeline sequence enough to baffle and perplex beginners completely, and so on.
 
-GUI is faced with a fundamental limitation; *as the size of the features increases, the size of widgets increases on a linear scale*. I call this limitation **the curse of GUI**. **The curse of GUI** is inevitable because of another limitation; *all the features supported by GUI need to be visualized*. Visual complexity in existing video editors is also inevitable because of **the curse of GUI**.
+GUI is faced with a fundamental limitation; *as the number of the features increases, the number of widgets increases on a linear scale*. I call this limitation **the curse of GUI**. **The curse of GUI** is inevitable because of another limitation; *all the features supported by GUI need to be visualized*. Visual complexity in existing video editors is also inevitable because of **the curse of GUI**.
 
 To implement too many features, video editors often have a menu of a menu. In this case, to do a certain thing A, you must recursively trace the menu tree to find the leaf A in such a way that you open the menu M1, then select the sub menu M2, then select the sub menu M3, and so forth. 
 
