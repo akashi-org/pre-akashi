@@ -4,17 +4,17 @@
 
 **Akashi** is a next-generation video editor. 
 
-You can edit your videos only by programs without being bothered with complex GUI.
+You can edit your videos only by programs without being bothered with complicated GUI.
 
 ## Why Akashi?
 
 ### The development style of existing video editors
 
-You may have used video editors for making your own videos. If so, what is your impression about them? In my impression, they are just terrible. The characteristics of them are summed up in three keywords: **complex**, **hard to memorize**, and **hard to customize**.
+You may have used video editors for making your own videos. If so, what is your impression about them? In my impression, they are just terrible. The characteristics of them are summed up in three keywords: **complicated**, **hard to memorize**, and **hard to customize**.
 
-#### 1. Complex
+#### 1. Complicated
 
-First off, I must say that existing video editors are too visually complex. Users are overwhelmed by numerous complex widgets, including a pile of panes that occupy the entire screen, a gorgeous timeline sequence enough to baffle and perplex beginners completely, and so on.
+First off, I must say that existing video editors are too visually complicated. Users are overwhelmed by numerous complicated widgets, including a pile of panes that occupy the entire screen, a gorgeous timeline sequence enough to baffle and perplex beginners completely, and so on.
 
 GUI is faced with a fundamental limitation; *as the number of the features increases, the number of widgets increases on a linear scale*. I call this limitation **the curse of GUI**. **The curse of GUI** is inevitable because of another limitation; *all the features supported by GUI need to be visualized*. Visual complexity in existing video editors is also inevitable because of **the curse of GUI**.
 
