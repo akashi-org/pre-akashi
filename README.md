@@ -1,4 +1,4 @@
-:warning: Akashi is now being developed in my private repo, and planned to be made public in **January 2021**.
+:warning: Akashi is now being developed in my private repo, and planned to be made public in **February 2021**.
 
 # Akashi
 
